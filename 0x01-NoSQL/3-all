@@ -1,0 +1,2 @@
+//insert all doc
+db.school.find()
