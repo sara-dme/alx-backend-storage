@@ -2,7 +2,7 @@
 -- that adds a new correction for a student
 
 DELIMITER $$
-DROP PROCEDURE IF EXISTS AddBonus.
+DROP PROCEDURE IF EXISTS AddBonus;
 CREATE PROCEDURE AddBonus(
 	IN `user_id` INTEGER,
 	IN `project_name` VARCHAR(255),
