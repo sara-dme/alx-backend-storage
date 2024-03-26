@@ -1,5 +1,8 @@
-#!/usr/bin/python3
-""" 10 - doc """
+#!/usr/bin/env python3
+"""
+10 - doc
+"""
+
 
 def update_topics(mongo_collection, name, topics):
     """ function that changes all topics of a school
